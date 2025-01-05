@@ -1,0 +1,138 @@
+Source,Target,Weight
+Oppenheimer,Kitty,45
+Oppenheimer,Tatlock,35
+Oppenheimer,Groves,45
+Oppenheimer,Lawrence,30
+Oppenheimer,Strauss,25
+Oppenheimer,Edward Teller,20
+Oppenheimer,Robb,15
+Oppenheimer,Pash,10
+Oppenheimer,Einstein,8
+Oppenheimer,Bohr,12
+Oppenheimer,Hans Bethe,15
+Oppenheimer,Feynman,18
+Oppenheimer,Rabi,16
+Oppenheimer,Bainbridge,14
+Oppenheimer,Frank Oppenheimer,20
+Oppenheimer,Vannevar Bush,12
+Oppenheimer,Kenneth Nichols,8
+Oppenheimer,Robert Serber,15
+Oppenheimer,Charlotte Serber,6
+Oppenheimer,Peter Oppenheimer,10
+Oppenheimer,Kistiakowsky,12
+Oppenheimer,Donald,5
+Oppenheimer,Fuchs,7
+Groves,Lawrence,15
+Groves,Vannevar Bush,10
+Groves,Kenneth Nichols,12
+Groves,Pash,8
+Groves,Strauss,15
+Groves,Edward Teller,10
+Groves,Robb,8
+Groves,Fuchs,6
+Groves,Hans Bethe,8
+Groves,Feynman,7
+Groves,Rabi,6
+Groves,Bainbridge,12
+Groves,Kistiakowsky,10
+Groves,Donald,4
+Lawrence,Edward Teller,10
+Lawrence,Ernest Lawrence,5
+Lawrence,Alvarez,15
+Lawrence,Hans Bethe,12
+Lawrence,Feynman,14
+Lawrence,Rabi,10
+Lawrence,Strauss,8
+Lawrence,Vannevar Bush,6
+Lawrence,Kistiakowsky,8
+Lawrence,Bainbridge,9
+Kitty,Tatlock,8
+Kitty,Frank Oppenheimer,8
+Kitty,Charlotte Serber,12
+Kitty,Robert Serber,8
+Kitty,Peter Oppenheimer,12
+Kitty,Jackie Oppenheimer,10
+Kitty,Strauss,4
+Kitty,Groves,5
+Kitty,Hans Bethe,4
+Kitty,Feynman,5
+Kitty,Rabi,4
+Tatlock,Pash,5
+Tatlock,Frank Oppenheimer,4
+Tatlock,Jean Tatlock,3
+Strauss,Robb,20
+Strauss,Vannevar Bush,8
+Strauss,Lewis Strauss,4
+Strauss,Kenneth Nichols,6
+Strauss,Edward Teller,15
+Strauss,Hans Bethe,7
+Edward Teller,Hans Bethe,12
+Edward Teller,Feynman,10
+Edward Teller,Rabi,8
+Edward Teller,Fuchs,6
+Edward Teller,Kistiakowsky,7
+Edward Teller,Vannevar Bush,5
+Feynman,Rabi,15
+Feynman,Hans Bethe,12
+Feynman,Bainbridge,8
+Feynman,Kistiakowsky,6
+Feynman,Donald,4
+Feynman,Fuchs,5
+Rabi,Hans Bethe,10
+Rabi,Bainbridge,6
+Rabi,Kistiakowsky,5
+Rabi,Vannevar Bush,4
+Rabi,Kenneth Nichols,5
+Bainbridge,Kistiakowsky,8
+Bainbridge,Donald,6
+Bainbridge,Kenneth Nichols,5
+Robert Serber,Charlotte Serber,15
+Robert Serber,Frank Oppenheimer,8
+Robert Serber,Hans Bethe,7
+Charlotte Serber,Frank Oppenheimer,6
+Frank Oppenheimer,Jackie Oppenheimer,10
+Frank Oppenheimer,Peter Oppenheimer,8
+Frank Oppenheimer,Hans Bethe,6
+Frank Oppenheimer,Feynman,5
+Lewis Strauss,Roger Robb,15
+Boris Pash,General Groves,10
+Fuchs,Hans Bethe,5
+Bohr,Einstein,15
+Bohr,Hans Bethe,10
+Bohr,Feynman,8
+Einstein,Hans Bethe,8
+Einstein,Feynman,6
+Einstein,Vannevar Bush,7
+Lt Johnson,Groves,6
+Lt Johnson,Kenneth Nichols,5
+Donald,Kenneth Nichols,4
+Vannevar Bush,Kenneth Nichols,8
+Roger Robb,General Groves,6
+Kistiakowsky,Kenneth Nichols,6
+Kistiakowsky,Donald,5
+Hans Bethe,Kenneth Nichols,7
+Pash,Kenneth Nichols,7
+Pash,Lt Johnson,8
+Bohr,Vannevar Bush,6
+
+-------------------------------------------------------------------
+# This edge list includes:
+-------------------------------------------------------------------
+# Primary relationships (major character interactions)
+# Secondary relationships (supporting character interactions)
+# Tertiary relationships (minor character interactions)
+# Professional connections
+# Personal connections
+# Family relationships
+# Military/Administrative connections
+# Scientific collaborations
+--------------------------------------------------------------------
+# Weight Scale Explanation:
+--------------------------------------------------------------------
+# 40-45: Major relationships with frequent and significant interactions
+# 30-39: Strong relationships with regular interactions
+# 20-29: Significant relationships with multiple interactions
+# 15-19: Moderate relationships with several meaningful interactions
+# 10-14: Regular relationships with occasional interactions
+# 5-9: Minor relationships with few interactions
+# 3-4: Minimal or passing interactions
