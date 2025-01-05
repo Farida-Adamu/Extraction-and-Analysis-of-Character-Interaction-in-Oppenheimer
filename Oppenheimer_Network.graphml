@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<graph edgedefault="undirected">
+<!-- Nodes -->
+<node id="Oppenheimer">
+<data key="label">Oppenheimer</data>
+</node>
+<node id="Kitty">
+<data key="label">Kitty</data>
+</node>
+<node id="Tatlock">
+<data key="label">Tatlock</data>
+</node>
+<node id="Lawrence">
+<data key="label">Lawrence</data>
+</node>
+<node id="Alvarez">
+<data key="label">Alvarez</data>
+</node>
+<node id="Feynman">
+<data key="label">Feynman</data>
+</node>
+<node id="Rabi">
+<data key="label">Rabi</data>
+</node>
+<node id="Bainbridge">
+<data key="label">Bainbridge</data>
+</node>
+<node id="Kistiakowsky">
+<data key="label">Kistiakowsky</data>
+</node>
+<node id="Fuchs">
+<data key="label">Fuchs</data>
+</node>
+<node id="Strauss">
+<data key="label">Strauss</data>
+</node>
+<node id="Edward Teller">
+<data key="label">Edward Teller</data>
+</node>
+<node id="Groves">
+<data key="label">Groves</data>
+</node>
+<node id="Vannevar Bush">
+<data key="label">Vannevar Bush</data>
+</node>
+<node id="Pash">
+<data key="label">Pash</data>
+</node>
+<node id="Robb">
+<data key="label">Robb</data>
+</node>
+<node id="Lt Johnson">
+<data key="label">Lt Johnson</data>
+</node>
+<node id="Donald">
+<data key="label">Donald</data>
+</node>
+<node id="Einstein">
+<data key="label">Einstein</data>
+</node>
+<node id="Bohr">
+<data key="label">Bohr</data>
+</node>
+<node id="Hans Bethe">
+<data key="label">Hans Bethe</data>
+</node>
+<node id="Kenneth Nichols">
+<data key="label">Kenneth Nichols</data>
+</node>
+<node id="Ernest Lawrence">
+<data key="label">Ernest Lawrence</data>
+</node>
+<node id="Robert Serber">
+<data key="label">Robert Serber</data>
+</node>
+<node id="Charlotte Serber">
+<data key="label">Charlotte Serber</data>
+</node>
+<node id="Frank Oppenheimer">
+<data key="label">Frank Oppenheimer</data>
+</node>
+<node id="Jackie Oppenheimer">
+<data key="label">Jackie Oppenheimer</data>
+</node>
+<node id="Peter Oppenheimer">
+<data key="label">Peter Oppenheimer</data>
+</node>
+<node id="Jean Tatlock">
+<data key="label">Jean Tatlock</data>
+</node>
+<node id="Lewis Strauss">
+<data key="label">Lewis Strauss</data>
+</node>
+<node id="Roger Robb">
+<data key="label">Roger Robb</data>
+</node>
+<node id="Boris Pash">
+<data key="label">Boris Pash</data>
+</node>
+<node id="General Groves">
+<data key="label">General Groves</data>
+</node>
+<!-- Edges -->
+<edge id="0" source="Oppenheimer" target="Kitty">
+<data key="weight">45.0</data>
+</edge>
+<edge id="1" source="Oppenheimer" target="Tatlock">
+<data key="weight">35.0</data>
+</edge>
+<edge id="2" source="Oppenheimer" target="Groves">
+<data key="weight">45.0</data>
+</edge>
+<edge id="3" source="Oppenheimer" target="Lawrence">
+<data key="weight">30.0</data>
+</edge>
+<edge id="4" source="Oppenheimer" target="Strauss">
+<data key="weight">25.0</data>
+</edge>
+<edge id="5" source="Oppenheimer" target="Edward Teller">
+<data key="weight">20.0</data>
+</edge>
+<edge id="6" source="Oppenheimer" target="Robb">
+<data key="weight">15.0</data>
+</edge>
+<edge id="7" source="Oppenheimer" target="Pash">
+<data key="weight">10.0</data>
+</edge>
+<edge id="8" source="Oppenheimer" target="Einstein">
+<data key="weight">8.0</data>
+</edge>
+<edge id="9" source="Oppenheimer" target="Bohr">
+<data key="weight">12.0</data>
+</edge>
+<edge id="10" source="Oppenheimer" target="Hans Bethe">
+<data key="weight">15.0</data>
+</edge>
+<edge id="11" source="Oppenheimer" target="Feynman">
+<data key="weight">18.0</data>
+</edge>
+<edge id="12" source="Oppenheimer" target="Rabi">
+<data key="weight">16.0</data>
+</edge>
+<edge id="13" source="Oppenheimer" target="Bainbridge">
+<data key="weight">14.0</data>
+</edge>
+<edge id="14" source="Oppenheimer" target="Frank Oppenheimer">
+<data key="weight">20.0</data>
+</edge>
+<edge id="15" source="Oppenheimer" target="Vannevar Bush">
+<data key="weight">12.0</data>
+</edge>
+<edge id="16" source="Oppenheimer" target="Kenneth Nichols">
+<data key="weight">8.0</data>
+</edge>
+<edge id="17" source="Oppenheimer" target="Robert Serber">
+<data key="weight">15.0</data>
+</edge>
+<edge id="18" source="Oppenheimer" target="Charlotte Serber">
+<data key="weight">6.0</data>
+</edge>
+<edge id="19" source="Oppenheimer" target="Peter Oppenheimer">
+<data key="weight">10.0</data>
+</edge>
+<edge id="20" source="Oppenheimer" target="Kistiakowsky">
+<data key="weight">12.0</data>
+</edge>
+<edge id="21" source="Oppenheimer" target="Donald">
+<data key="weight">5.0</data>
+</edge>
+<edge id="22" source="Oppenheimer" target="Fuchs">
+<data key="weight">7.0</data>
+</edge>
+<edge id="23" source="Groves" target="Lawrence">
+<data key="weight">15.0</data>
+</edge>
+<edge id="24" source="Groves" target="Vannevar Bush">
+<data key="weight">10.0</data>
+</edge>
+<edge id="25" source="Groves" target="Kenneth Nichols">
+<data key="weight">12.0</data>
+</edge>
+<edge id="26" source="Groves" target="Pash">
+<data key="weight">8.0</data>
+</edge>
+<edge id="27" source="Groves" target="Strauss">
+<data key="weight">15.0</data>
+</edge>
+<edge id="28" source="Groves" target="Edward Teller">
+<data key="weight">10.0</data>
+</edge>
+<edge id="29" source="Groves" target="Robb">
+<data key="weight">8.0</data>
+</edge>
+<edge id="30" source="Groves" target="Fuchs">
+<data key="weight">6.0</data>
+</edge>
+<edge id="31" source="Groves" target="Hans Bethe">
+<data key="weight">8.0</data>
+</edge>
+<edge id="32" source="Groves" target="Feynman">
+<data key="weight">7.0</data>
+</edge>
+<edge id="33" source="Groves" target="Rabi">
+<data key="weight">6.0</data>
+</edge>
+<edge id="34" source="Groves" target="Bainbridge">
+<data key="weight">12.0</data>
+</edge>
+<edge id="35" source="Groves" target="Kistiakowsky">
+<data key="weight">10.0</data>
+</edge>
+<edge id="36" source="Groves" target="Donald">
+<data key="weight">4.0</data>
+</edge>
+<edge id="37" source="Lawrence" target="Edward Teller">
+<data key="weight">10.0</data>
+</edge>
+<edge id="38" source="Lawrence" target="Ernest Lawrence">
+<data key="weight">5.0</data>
+</edge>
+<edge id="39" source="Lawrence" target="Alvarez">
+<data key="weight">15.0</data>
+</edge>
+<edge id="40" source="Lawrence" target="Hans Bethe">
+<data key="weight">12.0</data>
+</edge>
+<edge id="41" source="Lawrence" target="Feynman">
+<data key="weight">14.0</data>
+</edge>
+<edge id="42" source="Lawrence" target="Rabi">
+<data key="weight">10.0</data>
+</edge>
+<edge id="43" source="Lawrence" target="Strauss">
+<data key="weight">8.0</data>
+</edge>
+<edge id="44" source="Lawrence" target="Vannevar Bush">
+<data key="weight">6.0</data>
+</edge>
+<edge id="45" source="Lawrence" target="Kistiakowsky">
+<data key="weight">8.0</data>
+</edge>
+<edge id="46" source="Lawrence" target="Bainbridge">
+<data key="weight">9.0</data>
+</edge>
+<edge id="47" source="Kitty" target="Tatlock">
+<data key="weight">8.0</data>
+</edge>
+<edge id="48" source="Kitty" target="Frank Oppenheimer">
+<data key="weight">8.0</data>
+</edge>
+<edge id="49" source="Kitty" target="Charlotte Serber">
+<data key="weight">12.0</data>
+</edge>
+<edge id="50" source="Kitty" target="Robert Serber">
+<data key="weight">8.0</data>
+</edge>
+<edge id="51" source="Kitty" target="Peter Oppenheimer">
+<data key="weight">12.0</data>
+</edge>
+<edge id="52" source="Kitty" target="Jackie Oppenheimer">
+<data key="weight">10.0</data>
+</edge>
+<edge id="53" source="Kitty" target="Strauss">
+<data key="weight">4.0</data>
+</edge>
+<edge id="54" source="Kitty" target="Groves">
+<data key="weight">5.0</data>
+</edge>
+<edge id="55" source="Kitty" target="Hans Bethe">
+<data key="weight">4.0</data>
+</edge>
+<edge id="56" source="Kitty" target="Feynman">
+<data key="weight">5.0</data>
+</edge>
+<edge id="57" source="Kitty" target="Rabi">
+<data key="weight">4.0</data>
+</edge>
+<edge id="58" source="Tatlock" target="Pash">
+<data key="weight">5.0</data>
+</edge>
+<edge id="59" source="Tatlock" target="Frank Oppenheimer">
+<data key="weight">4.0</data>
+</edge>
+<edge id="60" source="Strauss" target="Robb">
+<data key="weight">20.0</data>
+</edge>
+<edge id="61" source="Strauss" target="Vannevar Bush">
+<data key="weight">8.0</data>
+</edge>
+<edge id="62" source="Strauss" target="Lewis Strauss">
+<data key="weight">4.0</data>
+</edge>
+<edge id="63" source="Strauss" target="Kenneth Nichols">
+<data key="weight">6.0</data>
+</edge>
+<edge id="64" source="Strauss" target="Edward Teller">
+<data key="weight">15.0</data>
+</edge>
+<edge id="65" source="Strauss" target="Hans Bethe">
+<data key="weight">7.0</data>
+</edge>
+<edge id="66" source="Edward Teller" target="Hans Bethe">
+<data key="weight">12.0</data>
+</edge>
+<edge id="67" source="Edward Teller" target="Feynman">
+<data key="weight">10.0</data>
+</edge>
+<edge id="68" source="Edward Teller" target="Rabi">
+<data key="weight">8.0</data>
+</edge>
+<edge id="69" source="Edward Teller" target="Fuchs">
+<data key="weight">6.0</data>
+</edge>
+<edge id="70" source="Edward Teller" target="Kistiakowsky">
+<data key="weight">7.0</data>
+</edge>
+<edge id="71" source="Feynman" target="Rabi">
+<data key="weight">15.0</data>
+</edge>
+<edge id="72" source="Feynman" target="Hans Bethe">
+<data key="weight">12.0</data>
+</edge>
+<edge id="73" source="Feynman" target="Bainbridge">
+<data key="weight">8.0</data>
+</edge>
+<edge id="74" source="Feynman" target="Kistiakowsky">
+<data key="weight">6.0</data>
+</edge>
+<edge id="75" source="Feynman" target="Donald">
+<data key="weight">4.0</data>
+</edge>
+<edge id="76" source="Rabi" target="Hans Bethe">
+<data key="weight">10.0</data>
+</edge>
+<edge id="77" source="Rabi" target="Bainbridge">
+<data key="weight">6.0</data>
+</edge>
+<edge id="78" source="Rabi" target="Kistiakowsky">
+<data key="weight">5.0</data>
+</edge>
+<edge id="79" source="Bainbridge" target="Kistiakowsky">
+<data key="weight">8.0</data>
+</edge>
+<edge id="80" source="Robert Serber" target="Charlotte Serber">
+<data key="weight">15.0</data>
+</edge>
+<edge id="81" source="Robert Serber" target="Frank Oppenheimer">
+<data key="weight">8.0</data>
+</edge>
+<edge id="82" source="Robert Serber" target="Hans Bethe">
+<data key="weight">7.0</data>
+</edge>
+<edge id="83" source="Frank Oppenheimer" target="Jackie Oppenheimer">
+<data key="weight">10.0</data>
+</edge>
+<edge id="84" source="Frank Oppenheimer" target="Peter Oppenheimer">
+<data key="weight">8.0</data>
+</edge>
+<edge id="85" source="Frank Oppenheimer" target="Hans Bethe">
+<data key="weight">6.0</data>
+</edge>
+<edge id="86" source="Frank Oppenheimer" target="Feynman">
+<data key="weight">5.0</data>
+</edge>
+<edge id="87" source="Lewis Strauss" target="Roger Robb">
+<data key="weight">15.0</data>
+</edge>
+<edge id="88" source="Boris Pash" target="General Groves">
+<data key="weight">10.0</data>
+</edge>
+<edge id="89" source="Fuchs" target="Hans Bethe">
+<data key="weight">5.0</data>
+</edge>
+<edge id="90" source="Bohr" target="Einstein">
+<data key="weight">15.0</data>
+</edge>
+<edge id="91" source="Bohr" target="Hans Bethe">
+<data key="weight">10.0</data>
+</edge>
+<edge id="92" source="Lt Johnson" target="Groves">
+<data key="weight">6.0</data>
+</edge>
+<edge id="93" source="Lt Johnson" target="Kenneth Nichols">
+<data key="weight">5.0</data>
+</edge>
+<edge id="94" source="Donald" target="Kenneth Nichols">
+<data key="weight">4.0</data>
+</edge>
+<edge id="95" source="Vannevar Bush" target="Kenneth Nichols">
+<data key="weight">8.0</data>
+</edge>
+<edge id="96" source="Roger Robb" target="General Groves">
+<data key="weight">6.0</data>
+</edge>
+<edge id="97" source="Kistiakowsky" target="Kenneth Nichols">
+<data key="weight">6.0</data>
+</edge>
+<edge id="98" source="Hans Bethe" target="Kenneth Nichols">
+<data key="weight">7.0</data>
+</edge>
+<edge id="99" source="Rabi" target="Kenneth Nichols">
+<data key="weight">5.0</data>
+</edge>
+<edge id="100" source="Frank Oppenheimer" target="Hans Bethe">
+<data key="weight">6.0</data>
+</edge>
+<edge id="101" source="Frank Oppenheimer" target="Feynman">
+<data key="weight">5.0</data>
+</edge>
+<edge id="102" source="Charlotte Serber" target="Jackie Oppenheimer">
+<data key="weight">4.0</data>
+</edge>
+<edge id="103" source="Pash" target="Kenneth Nichols">
+<data key="weight">7.0</data>
+</edge>
+<edge id="104" source="Pash" target="Lt Johnson">
+<data key="weight">8.0</data>
+</edge>
+<edge id="105" source="Einstein" target="Vannevar Bush">
+<data key="weight">7.0</data>
+</edge>
+<edge id="106" source="Bohr" target="Vannevar Bush">
+<data key="weight">6.0</data>
+</edge>
+</graph>
+</graphml>
